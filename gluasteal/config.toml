@@ -1,0 +1,11 @@
+[general]
+
+[stealer]
+enabled = false
+write_mode = "truncate"
+
+[loader]
+file = "@RunString"
+
+[logger]
+level = "info"
